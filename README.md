@@ -3,7 +3,7 @@
 [![koudaihirata's GitHub stats](https://github-readme-stats.vercel.app/api?username=koudaihirata&theme=vue-dark&show_icons=true)](https://github.com/koudaihirata/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koudaihirata&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/koudaihirata/github-readme-stats)
 <!--
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 **koudaihirata/koudaihirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
