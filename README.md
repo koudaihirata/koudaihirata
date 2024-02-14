@@ -3,6 +3,9 @@
 [![koudaihirata's GitHub stats](https://github-readme-stats.vercel.app/api?username=koudaihirata&theme=vue-dark&show_icons=true)](https://github.com/koudaihirata/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koudaihirata&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/koudaihirata/github-readme-stats)
 <!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxxxxxxxx&theme=2077)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xxxxxxxxxx&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+[![github-chart](https://github-chart.vercel.app/api?user=xxxxxxxxxx)](https://github.com/xxxxxxxxxx/github-chart)
 **koudaihirata/koudaihirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
