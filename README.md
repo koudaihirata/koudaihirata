@@ -5,6 +5,8 @@
 <!--
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=koudaihirata&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 **koudaihirata/koudaihirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
