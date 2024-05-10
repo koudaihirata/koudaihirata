@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koudaihirata&theme=solarized-light&show_icons=true&layout=compact)](https://github.com/koudaihirata/github-readme-stats)
 
 ## MySkill
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,react,nextjs,php,laravel)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,bun,docker)](https://skillicons.dev)
 
