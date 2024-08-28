@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,py,flask,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,bun,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,bun)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=koudaihirata&theme=solarized-light)](https://github.com/ryo-ma/github-profile-trophy)
 
