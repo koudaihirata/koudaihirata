@@ -9,7 +9,7 @@
 ## MySkill
 [![My Skills](https://skillicons.dev/icons?i=html,pug,css,sass,js,ts,react,nextjs,swift,dart)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,py,flask,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,flask,rust)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql,bun)](https://skillicons.dev)
 
